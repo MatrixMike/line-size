@@ -5,5 +5,8 @@ found the following instructive to build line-size as a stack package:
     ls -lctrh
     git status
     tree .stack-work/
-    gedit tips1.txt &
+    gedit tips1.txt
+
+after that 'stack build' works
+
 
