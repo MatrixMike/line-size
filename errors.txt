@@ -1,0 +1,7 @@
+
+Error: While constructing the build plan, the following exceptions were encountered:
+
+In the dependencies for hindent-5.2.3:
+    haskell-src-exts-1.18.2 must match >=1.19 (latest applicable is 1.19.1)
+
+Plan construction failed.
