@@ -1,0 +1,9 @@
+Mon Jul 03 16:30:03 AEST 2017 
+
+found the following instructive to build line-size as a stack package:
+    stack build  --install-ghc
+    ls -lctrh
+    git status
+    tree .stack-work/
+    gedit tips1.txt &
+
