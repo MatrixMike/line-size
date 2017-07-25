@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                line-size
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Display the number of bytes of each line
 -- description:         
 homepage:            xy30.com
@@ -19,3 +19,7 @@ executable line-size
   main-is: Main.hs             
   -- other-modules:       
   build-depends:  base > 4 && < 10000 
+source-repository head
+  type:     git
+  location: https://github.com/githubuser/testmh
+
