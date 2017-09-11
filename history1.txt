@@ -1,0 +1,1000 @@
+ 1137  cat scalaX 
+ 1138  git status
+ 1139  git add pwd1.txt scalaMJH scalaX
+ 1140  git status
+ 1141  git commit -m "collecting ideas"
+ 1142  cat .gitignore 
+ 1143  git push
+ 1144  ls *.scala -lc
+ 1145  cat yield.scala 
+ 1146  scalac yield.scala 
+ 1147  ls -lctrh
+ 1148  scala Test3
+ 1149  scalac enCoding.scala 
+ 1150  ls -lctrh
+ 1151  scala getEncod
+ 1152  cat hw.scala 
+ 1153  scalac hw.scala 
+ 1154  ls -lctrh
+ 1155  scala Hi
+ 1156  scalac forList.scala 
+ 1157  ls -lctrh
+ 1158  scala Test
+ 1159  cat forList.scala 
+ 1160  scalac javaIO.scala 
+ 1161  ls -lctrh
+ 1162  scala Test1
+ 1163  cat  javaIO.scala 
+ 1164  ls *.scala -lctrh
+ 1165  cat nested3loops.scala 
+ 1166  scalac  nested3loops.scala 
+ 1167  scala BikeGears3
+ 1168  ls *.scala -lctrh
+ 1169  git status
+ 1170  cat testFile.txt 
+ 1171  grep   testF  *.scala 
+ 1172  ls *.scala -lctrh
+ 1173  scala FrenchDate.scala 
+ 1174  scalac FrenchDate.scala 
+ 1175  ls  -lctrh
+ 1176  scala FrenchDate
+ 1177  cat FrenchDate.scala 
+ 1178  scala BikeGears3
+ 1179  grep Bike *.scala
+ 1180  scala nested3loops.scala 
+ 1181  scalac nested3loops.scala 
+ 1182  ls  -lctrh
+ 1183  scala BikeGears3
+ 1184  cat nested3loops.scala 
+ 1185  geany  nested3loops.scala &
+ 1186  scalac BikeGears3.scala
+ 1187  ls  -lctrh
+ 1188  scala BikeGears3
+ 1189  git status
+ 1190  scalac BikeGears3.scala
+ 1191  scala BikeGears3
+ 1192  git status
+ 1193  scalac BikeGears3.scala
+ 1194  scala BikeGears3
+ 1195  scalac singletons.scala 
+ 1196  ls  -lctrh
+ 1197  scala TestSingleton
+ 1198  ls  -lctrh
+ 1199  scalac TestSingleton.scala 
+ 1200  ls  -lctrh
+ 1201  git status
+ 1202  git add BikeGears3.scala TestSingleton.scala 
+ 1203  git commit -m "renaming source"
+ 1204  git push
+ 1205  ls *.class
+ 1206  scala Hi
+ 1207  scala FrenchDate
+ 1208  rm *.class
+ 1209  ls  -lctrh
+ 1210  cat locale.scala 
+ 1211  scalac locale.scala 
+ 1212  scala locale
+ 1213  scala DateFormatDemoSO
+ 1214  ls  -lctrh
+ 1215  git status
+ 1216  cd ~/
+ 1217  ls  -lctrh
+ 1218  cd kotlindev/
+ 1219  ls  -lctrh
+ 1220  git status
+ 1221  cd ~/jdk8u121/
+ 1222  ls  -lctrh
+ 1223  cd jdk1.8.0_121/
+ 1224  ls  -lctrh
+ 1225  javac -version
+ 1226  cd ~/
+ 1227  javac -version
+ 1228  history 
+ 1229  cd clojure
+ 1230  ls  -lctrh
+ 1231  cd stringeye/
+ 1232  lein uberjar 
+ 1233  history | grep sdk
+ 1234  history | grep curl
+ 1235  cat ~/Linux-tricks-and-tips/tips2.txt 
+ 1236  tree
+ 1237  java -jar target/stringeye-0.1.0-SNAPSHOT-standalone.jar 
+ 1238  java -jar target/stringeye-0.1.0-SNAPSHOT-standalone.jar   &
+ 1239  git pull
+ 1240  lein uberjar
+ 1241  sudo apt-get install leiningen
+ 1242  lein uberjar
+ 1243  tree
+ 1244  java -jar stringeye-0.1.1-SNAPSHOT-standalone.jar 
+ 1245  java -jar stringeye-0.1.1-SNAPSHOT-standalone.jar   &
+ 1246  lein -version
+ 1247  lein --version
+ 1248  tree
+ 1249  cd clojure
+ 1250  ls  -lctrh
+ 1251  git pull
+ 1252  cd stringeye/
+ 1253  lein uberjar 
+ 1254  sdk ls
+ 1255  cd ~/
+ 1256  sdk install leiningen
+ 1257  history | grep lein
+ 1258  sdk install leiningen
+ 1259  sdk 
+ 1260  sdk selfupdate
+ 1261  sdk selfupdate  force
+ 1262  sdk install leiningen
+ 1263  sdk
+ 1264  sdk version
+ 1265  ls -lctrh
+ 1266  cd kotlindev/
+ 1267  ls -lctrh
+ 1268  kotlin
+ 1269  java -jar hello.jar 
+ 1270  java -jar hello.jar one
+ 1271  java -jar hello.jar one two
+ 1272  cd ~/
+ 1273  curl -s "https://get.sdkman.io" | bash 
+ 1274  cat .sdkman/candidates/
+ 1275  ls .sdkman/candidates/
+ 1276  ls .sdkman/candidates/   -lc
+ 1277  tree
+ 1278  tree  -d
+ 1279  tree  -d | more
+ 1280  cd .sdkman/candidates/   
+ 1281  tree
+ 1282  cd leiningen/2.7.1/bin/
+ 1283  ls -lc
+ 1284  ./lein
+ 1285  ./lein.bat 
+ 1286  cd ..
+ 1287  git pull
+ 1288  cd ~/javaLowLevel/
+ 1289  git pull
+ 1290  rm clojure-InterOP/target/stale/leiningen.core.classpath.extract-native-dependencies 
+ 1291  git pull
+ 1292  ls -lctrh
+ 1293  cd clojure-InterOP/
+ 1294  lein uberjar 
+ 1295  tree
+ 1296  javac src/utils/demo.java 
+ 1297  tree
+ 1298  lein uberjar 
+ 1299  java -jar target/clojure-InterOP-1.0.3-SNAPSHOT-standalone.jar 
+ 1300  df -h
+ 1301  cd ..
+ 1302  ls -lctrh
+ 1303  ls -lc
+ 1304  cd lambdaSort/
+ 1305  ls -lc
+ 1306  cd ..
+ 1307  mkdir stride
+ 1308  cd stride/
+ 1309  mv ../lambdaSort/Example2.java .
+ 1310  ls -lc
+ 1311  more < Example2.stride 
+ 1312  ls -lc
+ 1313  dmesg | more
+ 1314  dmesg | grep iwl
+ 1315  dmesg | grep iwl3
+ 1316  dmesg | grep iwl3945
+ 1317  ifconfig 
+ 1318  cd ..
+ 1319  git pull
+ 1320  tree
+ 1321  jarsigner -verify -verbose sudoku/target/sudoku-1.0.4-SNAPSHOT-standalone.jar 
+ 1322  jarsigner -verify -verbose sudoku/target/sudoku-1.0.4-SNAPSHOT-standalone.jar | more
+ 1323  cd ..
+ 1324  tree
+ 1325  cd stringeye/
+ 1326  lein uberjar 
+ 1327  java -jar target/stringeye-0.1.1-SNAPSHOT-standalone.jar 
+ 1328  cd ~/
+ 1329  git clone https://github.com/MatrixMike/LeedsUniJava.git
+ 1330  cd LeedsUniJava/
+ 1331  git status
+ 1332  ls -lc
+ 1333  cat tidy1.sh 
+ 1334  git status
+ 1335  geany Problem2.java &
+ 1336  ls -lc
+ 1337  ls -lctrh
+ 1338  ps -ax
+ 1339  kill 4674
+ 1340  git status
+ 1341  ls -lctrh
+ 1342  cat tidy1.sh 
+ 1343  ./tidy1.sh 
+ 1344  ls -lctrh
+ 1345  ls enumTest/
+ 1346  ls jquery/
+ 1347  ls resources/
+ 1348  git status
+ 1349  git push
+ 1350  git pull
+ 1351  gitk
+ 1352  ls -lctrh
+ 1353  mv javaEnumTest.java javaEnumTest2.java
+ 1354  git pull
+ 1355  git push
+ 1356  git pull
+ 1357  git status
+ 1358  git add javaEnumTest.java 
+ 1359  git commit -m "dealing with git errors"
+ 1360  git status
+ 1361  git push
+ 1362  git add javaEnumTest2.java 
+ 1363  git commit -m "adding enum test"
+ 1364  git push
+ 1365  git status
+ 1366  git pull
+ 1367  cat historyLeeds.txt 
+ 1368  git status
+ 1369  git add javaEnumTest2.java 
+ 1370  git commit -m "renaming effects"
+ 1371  git status
+ 1372  git push
+ 1373  git status
+ 1374  ls -lctrh
+ 1375  ./tidy1.sh 
+ 1376  ls -lctrh
+ 1377  git status
+ 1378  cd ~/
+ 1379  git clone https://github.com/MatrixMike/printdir.git
+ 1380  cd printdir/
+ 1381  ls -lctrh
+ 1382  cat ReadMe 
+ 1383  ls -lctrh
+ 1384  cat README.md 
+ 1385  gcc printdir.c 
+ 1386  ls -lctrh
+ 1387  ./a.out 
+ 1388  ls -lctrh
+ 1389  cd ~/
+ 1390  git clone https://github.com/MatrixMike/javaxSwing.git
+ 1391  cd javaxSwing
+ 1392  tree
+ 1393  lein  uberjar 
+ 1394  tree
+ 1395  java -jar javaxSwing-1.0.3-SNAPSHOT-standalone.jar 
+ 1396  cd ~/
+ 1397  git clone https://github.com/MatrixMike/euler-haskell.git
+ 1398  cd euler-haskell/
+ 1399  ls -lctrh
+ 1400  geany &
+ 1401  git status
+ 1402  git add e01.hs 
+ 1403  git commit -m "after some linting"
+ 1404  git status
+ 1405  git add e01.hs 
+ 1406  git commit -m "after some linting 2"
+ 1407  git status
+ 1408  ls -lctrh
+ 1409  ./e01 
+ 1410  ls -lctrh
+ 1411  git status
+ 1412  git add e01.hs 
+ 1413  git commit -m "after some linting 3"
+ 1414  gitk
+ 1415  git status
+ 1416  git push
+ 1417  cd ~/wow
+ 1418  ls -lctrh
+ 1419  gedit wowMay17.txt &
+ 1420  cd ~/euler-haskell/
+ 1421  git status
+ 1422  git add e02.hs 
+ 1423  git commit -m "after hlint 1"
+ 1424  ls -lctrh
+ 1425  ./e02
+ 1426  ./e02  > e02out.txt
+ 1427  ls -lctrh
+ 1428  cat e02out.txt 
+ 1429  ls -lctrh
+ 1430  git status
+ 1431  git add e02.hs 
+ 1432  git commit -m "after hlint 2"
+ 1433  git status
+ 1434  git push
+ 1435  ls -lctrh
+ 1436  git pull
+ 1437  ls -lctrh
+ 1438  cat README.md 
+ 1439  kotlinc hello.kt -include-runtime -d hello.jar
+ 1440  sdk
+ 1441  sdk ls
+ 1442  sdk install leiningen
+ 1443  java --version
+ 1444  java -version
+ 1445  javac -version
+ 1446  sdk upgrade
+ 1447  sdk upgrade leiningen
+ 1448  cd ~/
+ 1449  cd LeedsUniJava/
+ 1450  ls -lctrh
+ 1451  git status
+ 1452  git pull
+ 1453  ls -lctrh
+ 1454  ./tidy1.sh 
+ 1455  ls -lctrh
+ 1456  ls enumTest/
+ 1457  cd ~/clisp/
+ 1458  ls -lctrh
+ 1459  git clone https://github.com/MatrixMike/clisp.git
+ 1460  ls -lctrh
+ 1461  rm clisp
+ 1462  rmdir clisp/
+ 1463  cd clisp/
+ 1464  rm clisp
+ 1465  ls -lctrh
+ 1466  rm README.md 
+ 1467  ls -lctrha
+ 1468  cd ..
+ 1469  ls -lctrha
+ 1470  cd ~/
+ 1471  git clone https://github.com/MatrixMike/clisp.git
+ 1472  git pull https://github.com/MatrixMike/clisp.git
+ 1473  git clone https://github.com/MatrixMike/clisp.git
+ 1474  cd clisp/
+ 1475  ls -lctrh
+ 1476  clisp
+ 1477  git status
+ 1478  git add exp1.lisp exp2.lisp 
+ 1479  git commit -m "w.i.p."
+ 1480  git push
+ 1481  git pull
+ 1482  ls -lctrh
+ 1483  cd ~/lispW
+ 1484  cd ~/
+ 1485  mkdir lispw
+ 1486  cd lispw/
+ 1487  mv ~/Downloads/lwlper-license.sh .
+ 1488  ls -lc
+ 1489  chmod 644 lwlper-license.sh 
+ 1490  ls -lc
+ 1491  chmod 777 lwlper-license.sh 
+ 1492  ls -lc
+ 1493  ./lwlper-license.sh 
+ 1494  ls -lc
+ 1495  mv ~/Downloads/lwlper-install.sh .
+ 1496  ls -lc
+ 1497  chmod 777 lwlper-install.sh 
+ 1498  ls -lc
+ 1499  ./lwlper-install.sh 
+ 1500  mv ~/Downloads/lwper61-x86-linux.tar.gz .
+ 1501  mv ~/Downloads/lwdoc61-x86-linux.tar.gz .
+ 1502  ls -lc
+ 1503  ./lwlper-install.sh 
+ 1504  sudo ./lwlper-install.sh 
+ 1505  ./lwlper-license.sh 
+ 1506  sudo ./lwlper-install.sh 
+ 1507  ls -lctrh
+ 1508  sudo ./lwlper-license.sh 
+ 1509  sudo ./lwlper-install.sh 
+ 1510  lispmtopgm 
+ 1511  sudo ./lwlper-license.sh 
+ 1512  sudo ./lwlper-install.sh 
+ 1513  lw
+ 1514  lispworks
+ 1515  git status
+ 1516  gitk
+ 1517  git show
+ 1518  git add e02.hs 
+ 1519  git commit -m "after lint."
+ 1520  git show
+ 1521  gitk
+ 1522  git push
+ 1523  gitk
+ 1524  cd ~/Haskell/learning/
+ 1525  gitk
+ 1526  git status
+ 1527  git add learning1.hs 
+ 1528  git commit -m "after some lint"
+ 1529  git status
+ 1530  git push
+ 1531  git pull
+ 1532  git status
+ 1533  git add learning1.hs 
+ 1534  git commit -m "after some lint 2"
+ 1535  git push
+ 1536  git status
+ 1537  ls -lctrh
+ 1538  cd ..
+ 1539  git status
+ 1540  ls -lctrh
+ 1541  cd learnyouahaskell/
+ 1542  grep '(\' *.hs
+ 1543  grep '(\'' *.hs
+ 1544  grep "(\" *.hs
+ 1545  ls -lctrh
+ 1546  git status
+ 1547  git add output8.hs 
+ 1548  git commit -m "changed spelling"
+ 1549  git push
+ 1550  clisp
+ 1551  sudo apt-get install clisp
+ 1552  cd ~/
+ 1553  mkdir clisp
+ 1554  cd cli
+ 1555  cd clisp/
+ 1556  clisp
+ 1557  ls -lctrh
+ 1558  clisp
+ 1559  git status
+ 1560  ls -lctrh
+ 1561  git init
+ 1562  git add exp1.lisp 
+ 1563  git commit -m "initial commit"
+ 1564  clisp
+ 1565  git status
+ 1566  git add exp1.lisp 
+ 1567  git commit -m "version 1"
+ 1568  gitk
+ 1569  clisp
+ 1570  git status
+ 1571  git add exp1.lisp 
+ 1572  git commit -m "version 2"
+ 1573  git status
+ 1574  gitk
+ 1575  clisp
+ 1576  locate clojure
+ 1577  locate clojure | grep jar
+ 1578  locate clojure-1.8.0.jar
+ 1579  cd ~/clojure18/clojure-1.8.0/
+ 1580  ls -lctrh
+ 1581  java -cp clojure-1.8.0.jar clojure.main
+ 1582  locate clojure-1.8.0.jar
+ 1583  cd ~/Linux-tricks-and-tips/
+ 1584  ls -lctrh
+ 1585  git status
+ 1586  gedit tips2.txt &
+ 1587  git status
+ 1588  git add tips2.txt 
+ 1589  git commit -m "find and use :clojure REPL"
+ 1590  git push
+ 1591  cd ~/clisp/
+ 1592  git status
+ 1593  git add exp1.lisp 
+ 1594  git commit -m "work in progress"
+ 1595  git push
+ 1596  clisp exp1.lisp 
+ 1597  clisp exp2.lisp 
+ 1598  clisp
+ 1599  ls -lc
+ 1600  cd ~/
+ 1601  git clone https://github.com/ElectronicsClubAltona/exampleArduinoFromCLI.git
+ 1602  cd exampleArduinoFromCLI/
+ 1603  ls -lctrh
+ 1604  cat Makefile 
+ 1605  make
+ 1606  cat README 
+ 1607  ls -lctrha
+ 1608  cat .gitignore 
+ 1609  make blink
+ 1610  sudo apt-get install libgtk2.0-0:i386
+ 1611  git status
+ 1612  git add tips.txt hello.lisp 
+ 1613  git commit -m "help ideas"
+ 1614  git status
+ 1615  git push 
+ 1616  cd ~/Linux-tricks-and-tips/
+ 1617  git status
+ 1618  git pull
+ 1619  ls -lc
+ 1620  lwp-download --help
+ 1621  lispmtopgm --help
+ 1622  man lispmtopgm
+ 1623  cd ~/clisp/
+ 1624  clisp 
+ 1625  clisp hello.lisp 
+ 1626  git status
+ 1627  git pull
+ 1628  git add hello.lisp 
+ 1629  git status
+ 1630  git add exp1.lisp exp2.lisp 
+ 1631  git status
+ 1632  git commit -m "new tests"
+ 1633  clisp
+ 1634  clisp --help
+ 1635  clisp -c hello.lisp 
+ 1636  ls -lctrh
+ 1637  clisp -c hello.lisp compile
+ 1638  ls -lctrh
+ 1639  clisp hello.fas 
+ 1640  clisp hello.lib
+ 1641  ls -lctrh
+ 1642  clisp -c hello.lisp compile
+ 1643  ls -lctrh
+ 1644  clisp -c exp1.lisp compile
+ 1645  clisp -c exp1.lisp 
+ 1646  ls -lctrh
+ 1647  git status
+ 1648  git add tips.txt 
+ 1649  git commit -m "compiling - see errors"
+ 1650  git push
+ 1651  git status
+ 1652  clisp
+ 1653  git pull
+ 1654  ls -lctrh
+ 1655  git pull
+ 1656  cd ~/clisp
+ 1657  git status
+ 1658  git add exp2.lisp 
+ 1659  git commit -m "more from https://www.cs.cmu.edu/~dst/LispBook/book.pdf"
+ 1660  git push
+ 1661  git pull
+ 1662  git push
+ 1663  git status
+ 1664  ifconfig 
+ 1665  ls -lctrh
+ 1666  git status
+ 1667  git pull
+ 1668  ls -lctrh
+ 1669  cd ~/
+ 1670  ls -lctrh
+ 1671  cd Linux-tricks-and-tips/
+ 1672  git pull
+ 1673  ifconfig 
+ 1674  git pull
+ 1675  ifconfig 
+ 1676  git pull
+ 1677  cd ~/javaLowLevel/
+ 1678  git pull
+ 1679  ls -lctrh
+ 1680  cd ~/clisp
+ 1681  ls -lctrh
+ 1682  clisp
+ 1683  cd ~/
+ 1684  git clone https://github.com/MatrixMike/Python.git
+ 1685  cd leinREPLclojure/
+ 1686  ls -lctrh
+ 1687  git pull
+ 1688  ls -lctrh
+ 1689  cd ~/Python/
+ 1690  ls -lctrh
+ 1691  python3 fibonacci1.py 
+ 1692  python3 lambda1.py 
+ 1693  sudo apt-get install python3-tk
+ 1694  cd ~/
+ 1695  locate *.csv
+ 1696  cd ~/javaLowLevel/
+ 1697  ls -lctrh
+ 1698  ls -lc
+ 1699  grep  TreeMap   *.java
+ 1700  grep  NavigableMap   *.java
+ 1701  git status
+ 1702  cd locale/
+ 1703  ls -lc
+ 1704  grep  NavigableMap   *.java
+ 1705  ls -lctrh
+ 1706  java MainLocaleMap 
+ 1707  java MainLocaleMap > MainLocaleMapOut.txt
+ 1708  ls -lctrh
+ 1709  git status
+ 1710  git add MainLocaleMapOut.txt MainLocaleMap.java ../lambdaSort/Example2.java 
+ 1711  git status
+ 1712  java MainLocaleMap 
+ 1713  cd ..
+ 1714  git status
+ 1715  git commit -m "Java TreeMap"
+ 1716  git status
+ 1717  git add locale/MainLocaleMap.java 
+ 1718  ls lambdaSort/
+ 1719  cd lambdaSort/
+ 1720  ls -lctrh
+ 1721  cd ..
+ 1722  cat MK1sort.txt 
+ 1723  git status
+ 1724  git commit -m "Java TreeMap 2"
+ 1725  git push
+ 1726  ls -lc
+ 1727  git status
+ 1728  git pull
+ 1729  ls -lctrh
+ 1730  cd ~/cli
+ 1731  cd ~/clisp
+ 1732  ls -lctrh
+ 1733  git pull
+ 1734  gitk &
+ 1735  git status
+ 1736  cat exp2.lisp 
+ 1737  clisp
+ 1738  ifconfig 
+ 1739  ls -lc
+ 1740  git status
+ 1741  git pull
+ 1742  cat exp2.lisp 
+ 1743  gitk &
+ 1744  ls -lc
+ 1745  clisp   exp2.lisp 
+ 1746  clisp   exp1.lisp
+ 1747  clisp   hello.lisp 
+ 1748  ls -lctrh
+ 1749  git status
+ 1750  git add exp2.lisp 
+ 1751  git commit -m "comments to facilitate compilation"
+ 1752  git push
+ 1753  git status
+ 1754  ls -lca
+ 1755  cat .gitignore 
+ 1756  gedit .gitignore &
+ 1757  git status
+ 1758  git add .gitignore 
+ 1759  git commit -m "obvious"
+ 1760  git push
+ 1761  git status
+ 1762  ls -lctrh
+ 1763  ls *.lisp
+ 1764  ls *.lisp  -lc
+ 1765  clisp wr.lisp 
+ 1766  cat wr.lisp 
+ 1767  cat test.lisp 
+ 1768  clisp test.lisp 
+ 1769  ls -lctrh
+ 1770  cat README.md 
+ 1771  cat hello.li
+ 1772  cat hello.lisp 
+ 1773  cat exp1.lisp
+ 1774  clisp 
+ 1775  git status
+ 1776  cd ~/Haskell/learnyouahaskell/
+ 1777  ls -lctrh
+ 1778  git pull
+ 1779  ls -lctrh
+ 1780  git status
+ 1781  cd ..
+ 1782  git status
+ 1783  git add Lyndon_out.hs learnyouahaskell/args1.hs learnyouahaskell/output7.hs 
+ 1784  git status
+ 1785  git commit -m "after some linting"
+ 1786  git push
+ 1787  cd ~/
+ 1788  ls -lctrh
+ 1789  cd Hls/
+ 1790  ls -lctrh
+ 1791  git status
+ 1792  gitk & 
+ 1793  cat todoMike.txt 
+ 1794  git status
+ 1795  git add Hpwd.hs Hls_out.hs todoMike.txt 
+ 1796  git commit -m "consolidating after some lint"
+ 1797  git push
+ 1798  git pull
+ 1799  git push
+ 1800  cd ~/
+ 1801  ls -lctrh
+ 1802  cd Linux-tricks-and-tips/
+ 1803  git pull
+ 1804  cd ~/kotlindev/
+ 1805  git pull
+ 1806  sudo apt-get update 
+ 1807  sudo apt-get upgrade 
+ 1808  cd ~/Hls/
+ 1809  git status
+ 1810  git pull
+ 1811  ls -lctrh
+ 1812  cd Hecho/
+ 1813  ls -lctrh
+ 1814  stack build
+ 1815  cd ~/hls
+ 1816  cd ~/Hls
+ 1817  ls -lctrh
+ 1818  cd Hecho/
+ 1819  ls -lctrh
+ 1820  stack build
+ 1821  cd ../Hwhoami/
+ 1822  ls -lctrh
+ 1823  stack build
+ 1824  cd ..
+ 1825  stack setup
+ 1826  stack path
+ 1827  stack exec env
+ 1828  stack exec env | grep keyring
+ 1829  stack setup
+ 1830  stack build
+ 1831  ls -lctrh
+ 1832  cd Hecho/
+ 1833  ls -lctrh
+ 1834  stack build
+ 1835  stack config set system-ghc --global true
+ 1836  ls -lctrh
+ 1837  cat stack.yaml 
+ 1838  cd ../Hwhoami/
+ 1839  ls -lctrh
+ 1840  git init
+ 1841  git add stack.yaml 
+ 1842  git add Hwhoami.cabal Setup.hs README.md 
+ 1843  git status
+ 1844  tree
+ 1845  git add src/Lib.hs test/Spec.hs 
+ 1846  git status
+ 1847  git commit -m "almost initial commit"
+ 1848  stack config set system-ghc --global true
+ 1849  stack build
+ 1850  cd ../Hecho/
+ 1851  stack build
+ 1852  cd ~/Haskell/learnyouahaskell/
+ 1853  ls -lctrh
+ 1854  hindent
+ 1855  cd ..
+ 1856  git pull
+ 1857  ls -lctrh
+ 1858  cd learnyouahaskell/
+ 1859  ls -lctrh
+ 1860  rm *.o *.hi
+ 1861  ls -lctrh
+ 1862  ./shortLinesOnly 
+ 1863  ls -lctrh
+ 1864  ./output
+ 1865  ./output1 
+ 1866  ls -lctrh
+ 1867  cd ..
+ 1868  ls -lctrh
+ 1869  rm *.o *.hi
+ 1870  ls -lctrh
+ 1871  ./Lyndon 
+ 1872  cd ~/Hls/
+ 1873  ls -lctrh
+ 1874  cd Hwhoami/
+ 1875  tree
+ 1876  stack build
+ 1877  cd ../Hecho/
+ 1878  stack build
+ 1879  cd ~/hindent/
+ 1880  ls -lctrh
+ 1881  git status
+ 1882  gitk &
+ 1883  stack build
+ 1884  tree
+ 1885  git status
+ 1886  git add
+ 1887  stack sdist
+ 1888  git add hindent.cabal Setup.hs 
+ 1889  git add stack.yaml TESTS.md 
+ 1890  git status
+ 1891  git commit -m "early version for base"
+ 1892  git status
+ 1893  git add hindent.cabal 
+ 1894  git commit -m "early version for base2"
+ 1895  stack sdist
+ 1896  stack build
+ 1897  git status
+ 1898  stack sdist
+ 1899  git status
+ 1900  git add hindent.cabal 
+ 1901  git commit -m "early version for base3"
+ 1902  stack sdist
+ 1903  stack build
+ 1904  stack sdist
+ 1905  git status
+ 1906  gitk &
+ 1907  git status
+ 1908  stack sdist
+ 1909  tree
+ 1910  tree .stack-work/
+ 1911  tar --help
+ 1912  tar -tvf .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/hindent-5.2.2.tar.gz 
+ 1913  stack sdist
+ 1914  tar -tvf .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/hindent-5.2.2.tar.gz 
+ 1915  ls -lc
+ 1916  ls -lca
+ 1917  cd /home/mikeh/hindent/.stack-work/install/x86_64-linux/lts-6.10/7.10.3/bin
+ 1918  ls -lctrh
+ 1919  ./hindent ~/Haskell/Lyndon.hs 
+ 1920  ./hindent ~/Haskell/learnyouahaskell/args1.hs 
+ 1921  ./hindent ~/Haskell/learnyouahaskell/shortLinesOnly.hs
+ 1922  ./hindent ~/Haskell/learnyouahaskell/capslocker.hs
+ 1923  ./hindent ~/Haskell/learnyouahaskell/output7.hs 
+ 1924  ./hindent ~/Haskell/learnyouahaskell/output5.hs 
+ 1925  cd ~/Haskell/learnyouahaskell/
+ 1926  git status
+ 1927  cd ..
+ 1928  ls zippers/
+ 1929  ls zippers/ -lc
+ 1930  git add zippers/tree1.hs 
+ 1931  git status
+ 1932  git add Geometry/Cuboid.hs 
+ 1933  git status
+ 1934  git commit -m "after hindent3"
+ 1935  git push
+ 1936  git status
+ 1937  ls -lctrh
+ 1938  git status
+ 1939  gitk &
+ 1940  cat .gitignore 
+ 1941  git status
+ 1942  ls -lctrh
+ 1943  git add hindent.cabal 
+ 1944  git status
+ 1945  git push
+ 1946  git var -l
+ 1947  cd ~/ical
+ 1948  cd ~/line-size/
+ 1949  git var -l
+ 1950  ls -lctrh
+ 1951  git status
+ 1952  cat .gitignore 
+ 1953  tree
+ 1954  stack build
+ 1955  stack init
+ 1956  git status
+ 1957  git add stack.yaml 
+ 1958  git commit -m "automatic yaml mod"
+ 1959  stack build
+ 1960  stack sdist
+ 1961  git pull
+ 1962  cat stack.yaml 
+ 1963  cd /home/mikeh/line-size/.stack-work/install/x86_64-linux/lts-9.0/8.0.2/bin
+ 1964  ls -lc
+ 1965  ./line-size 
+ 1966  git pull
+ 1967  ls -lctrh
+ 1968  rm backwards
+ 1969  rm Lyndon
+ 1970  rm test2
+ 1971  rm testColor1
+ 1972  git pull
+ 1973  ls -lctrh
+ 1974  git status
+ 1975  git add testColor1.hs && git commit -m "testing rgba"
+ 1976  git push
+ 1977  ls -lctrh
+ 1978  rm *.o *.hi
+ 1979  ls -lctrh
+ 1980  sudo apt-get update 
+ 1981  sudo apt-get upgrade 
+ 1982  git pull
+ 1983  ls -lc
+ 1984  ls -lctrh
+ 1985  ./systemInterOp 
+ 1986  git pull
+ 1987  git status
+ 1988  rm testColor1
+ 1989  rm test1
+ 1990  rm test5
+ 1991  git status
+ 1992  rm systemInterOp
+ 1993  git status
+ 1994  git add testColor1 && git commit -m "tidy merge"
+ 1995  git status
+ 1996  git push
+ 1997  git status
+ 1998  git pull
+ 1999  git status
+ 2000  git pull
+ 2001  ./BinariesVersionCheck.sh 
+ 2002  df -h
+ 2003  ./BinariesVersionCheck.sh  2> BinVer1.txt
+ 2004  ./BinariesVersionCheck.sh  2> BinVer1.txt 1> BinVer1.txt
+ 2005  ls -lctrh
+ 2006  cat BinVer1.txt 
+ 2007  ./BinariesVersionCheck.sh  
+ 2008  stack upgrade --git
+ 2009  ./BinariesVersionCheck.sh  
+ 2010  stack --version
+ 2011  history 
+ 2012  ./BinariesVersionCheck.sh  
+ 2013  ./BinariesVersionCheck.sh  2> BinVer2.txt 1> BinVer2.txt
+ 2014  ls -lctrh
+ 2015  diff BinVer1.txt BinVer2.txt 
+ 2016  cd ~/
+ 2017  git clone https://github.com/MatrixMike/line-size.git
+ 2018  cd line-size/
+ 2019  git pull
+ 2020  git status
+ 2021  git push
+ 2022  git pull
+ 2023  git commit -m "adding"
+ 2024  cat stack.yaml 
+ 2025  rm stack.yaml 
+ 2026  git pull
+ 2027  git status
+ 2028  git push
+ 2029  git status
+ 2030  git stash stack.yaml
+ 2031  git stash show
+ 2032  git stash --help
+ 2033  git stash
+ 2034  git pull
+ 2035  git status
+ 2036  git add .gitignore Main.hs  line-size.cabal tips1.txt errors.txt 
+ 2037  git commit -m "adding 2"
+ 2038  git status
+ 2039  git pull
+ 2040  git push
+ 2041  git status
+ 2042  git add stack.yaml 
+ 2043  git commit -m "adding 3"
+ 2044  git status
+ 2045  git pull
+ 2046  git push
+ 2047  stack build && stack install
+ 2048  stack init
+ 2049  cp ~/Haskell/BinariesVersionCheck.sh .
+ 2050  ls -lctrh
+ 2051  ./BinariesVersionCheck.sh 
+ 2052  ./BinariesVersionCheck.sh 1>BinVer1.txt 2>BinVer1.txt
+ 2053  ls -lctrh
+ 2054  cat BinVer1.txt 
+ 2055  cabal --version
+ 2056  cabal 
+ 2057  cabal --help
+ 2058  stack install cabal-install
+ 2059  ./BinariesVersionCheck.sh 
+ 2060  ls -lca
+ 2061  PATH=~/.local/bin:$PATH
+ 2062  echo $PATH
+ 2063  stack --version
+ 2064  ./BinariesVersionCheck.sh 
+ 2065  ls -lc
+ 2066  cd ~/
+ 2067  mkdir ghc
+ 2068  cd ghc/
+ 2069  mv ~/line-size/ghc-8.2.1-x86_64-deb8-linux.tar.xz .
+ 2070  ls -lc
+ 2071  tar -xvf ghc-8.2.1-x86_64-deb8-linux.tar.xz 
+ 2072  ls -lctrh
+ 2073  cd ghc-8.2.1/
+ 2074  ls -lctrh
+ 2075  ./configure 
+ 2076  ls -lctrh
+ 2077  cat INSTALL 
+ 2078  make install
+ 2079  sudo make install
+ 2080  ghc-8.2.1 --version
+ 2081  whereis ghc-7.6.3
+ 2082  whereis ghc-8.2.1
+ 2083  cd ~/line-size/
+ 2084  ./BinariesVersionCheck.sh 
+ 2085  ls -lc
+ 2086  ./BinariesVersionCheck.sh 1>BinVer2.txt 2>BinVer2.txt
+ 2087  ls -lctrh
+ 2088  diff BinVer1.txt BinVer2.txt 
+ 2089  stack install hindent && stack install hlint
+ 2090  ./BinariesVersionCheck.sh 
+ 2091  git status
+ 2092  cat stack.yaml 
+ 2093  stack setup
+ 2094  ./BinariesVersionCheck.sh 
+ 2095  stack install hindent 
+ 2096  stack setup
+ 2097  ./BinariesVersionCheck.sh 
+ 2098  stack install hindent && stack install hlint
+ 2099  ./BinariesVersionCheck.sh 
+ 2100  stack install
+ 2101  ls -lctrh
+ 2102  cat line-size.cabal 
+ 2103  cat stack.yaml 
+ 2104  stack install hindent && stack install hlint
+ 2105  stack install hindent --install-ghc
+ 2106  stack install
+ 2107  stack setup
+ 2108  stack path
+ 2109  stack exec env
+ 2110  stack path
+ 2111  stack path > stackPath1.txt
+ 2112  ls -lctrh
+ 2113  git status
+ 2114  git add stackPath1.txt && git commit -m "stack path" && git push
+ 2115  ./BinariesVersionCheck.sh 
+ 2116  whereis ghc-8.2.1
+ 2117  whereis stack
+ 2118  stack install
+ 2119  git status
+ 2120  gitk &
+ 2121  cat stack.yaml 
+ 2122  git status
+ 2123  git add stack.yaml && git commit -m "lts-9.3"
+ 2124  git status
+ 2125  gedit stack.yaml &
+ 2126  stack install
+ 2127  git status
+ 2128  ./BinariesVersionCheck.sh 
+ 2129  git add stack.yaml && git commit -m "lts-9.4"
+ 2130  git status
+ 2131  git push
+ 2132  git pull && stack install
+ 2133  line-size 
+ 2134  stack clean && stack install
+ 2135  history 
+ 2136  history > history1.txt
