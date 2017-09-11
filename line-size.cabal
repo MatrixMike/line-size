@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                line-size
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            Display the number of bytes of each line
 description:         needed to exec sdist cleanly - reads from stdin and produces line number and byte count with source line as output
 homepage:            xy30.com
