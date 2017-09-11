@@ -1,7 +1,7 @@
 import Control.Monad
 import System.IO
 
-maxLineLen :: (Int)
+maxLineLen :: Int
 maxLineLen = 42
 
 main = main' 0
