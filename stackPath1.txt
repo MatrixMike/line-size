@@ -1,0 +1,22 @@
+stack-root: /home/mikeh/.stack
+project-root: /home/mikeh/line-size
+config-location: /home/mikeh/line-size/stack.yaml
+bin-path: /home/mikeh/.stack/snapshots/x86_64-linux/lts-9.3/8.0.2/bin:/home/mikeh/.stack/programs/x86_64-linux/ghc-8.0.2/bin:/home/mikeh/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+programs: /home/mikeh/.stack/programs/x86_64-linux
+compiler-exe: /home/mikeh/.stack/programs/x86_64-linux/ghc-8.0.2/bin/ghc
+compiler-bin: /home/mikeh/.stack/programs/x86_64-linux/ghc-8.0.2/bin
+local-bin: /home/mikeh/.local/bin
+extra-include-dirs: 
+extra-library-dirs: 
+snapshot-pkg-db: /home/mikeh/.stack/snapshots/x86_64-linux/lts-9.3/8.0.2/pkgdb
+local-pkg-db: /home/mikeh/line-size/.stack-work/install/x86_64-linux/lts-9.3/8.0.2/pkgdb
+global-pkg-db: /home/mikeh/.stack/programs/x86_64-linux/ghc-8.0.2/lib/ghc-8.0.2/package.conf.d
+ghc-package-path: /home/mikeh/line-size/.stack-work/install/x86_64-linux/lts-9.3/8.0.2/pkgdb:/home/mikeh/.stack/snapshots/x86_64-linux/lts-9.3/8.0.2/pkgdb:/home/mikeh/.stack/programs/x86_64-linux/ghc-8.0.2/lib/ghc-8.0.2/package.conf.d
+snapshot-install-root: /home/mikeh/.stack/snapshots/x86_64-linux/lts-9.3/8.0.2
+local-install-root: /home/mikeh/line-size/.stack-work/install/x86_64-linux/lts-9.3/8.0.2
+snapshot-doc-root: /home/mikeh/.stack/snapshots/x86_64-linux/lts-9.3/8.0.2/doc
+local-doc-root: /home/mikeh/line-size/.stack-work/install/x86_64-linux/lts-9.3/8.0.2/doc
+dist-dir: .stack-work/dist/x86_64-linux/Cabal-1.24.2.0
+local-hpc-root: /home/mikeh/line-size/.stack-work/install/x86_64-linux/lts-9.3/8.0.2/hpc
+local-bin-path: /home/mikeh/.local/bin
+ghc-paths: /home/mikeh/.stack/programs/x86_64-linux
