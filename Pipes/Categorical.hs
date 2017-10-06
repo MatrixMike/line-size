@@ -13,6 +13,7 @@ module Pipes.Categorical
 
 import qualified Pipes as P
 import Pipes ((>->),yield,await,lift,Pipe)
+{-# OPTIONS_GHC -fwarn-missing-signatures #-}
 import qualified Pipes.Prelude as PP
 import Data.Char
 import Control.Category ((>>>),Category((.),id))
